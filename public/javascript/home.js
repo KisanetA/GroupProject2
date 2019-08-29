@@ -1,3 +1,4 @@
+
 $("#picsContainer2").hide(100);
 $("#picsContainer4").hide(100);
 $("#addCloset").hide(100); 
