@@ -14,8 +14,8 @@ Your Closet is a JavaScript application that uses MySQL database to store user l
     * MySQL
 
 # Getting started
-    - npm install
-    - npm start
-    - Internet browser will automatically use port 8080 (visit http://localhost:8080/ in your browser)
+    * npm install
+    * npm start
+    * Internet browser will automatically use port 8080 (visit http://localhost:8080/ in your browser)
 
 ![saving an uploaded picture into MySQL database ](/style/images/yourCloset.png)
