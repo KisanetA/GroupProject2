@@ -12,6 +12,7 @@ Your Closet is a JavaScript application that uses MySQL database to store user l
     * JQuery
     * Node.js
     * MySQL
+    * Heroku
 
 # Getting started
     * npm install
